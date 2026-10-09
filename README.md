@@ -67,16 +67,6 @@
 ##### Translation format
 - translation/LANGUAGE/LANGUAGE_translation_SURAHNUMBER.json
 
-##### HOST : Raw
-- https://raw.githubusercontent.com/semarketir/quranjson/master/source/*
-- https://rawgit.com/semarketir/quranjson/master/source/*
-
-##### Example : Raw
-- [https://raw.githubusercontent.com/semarketir/quranjson/master/source/surah.json](https://raw.githubusercontent.com/semarketir/quranjson/master/source/surah.json)
-- [https://raw.githubusercontent.com/semarketir/quranjson/master/source/surah/surah_1.json](https://raw.githubusercontent.com/semarketir/quranjson/master/source/surah/surah_1.json)
-
-##### Example : Raw Format
-- https://raw.githubusercontent.com/semarketir/quranjson/BRANCH/SOURCE_OR_DIST/FOLDER/FILE.json
 
 ##### License
 [MIT License](http://opensource.org/licenses/mit-license.php)
